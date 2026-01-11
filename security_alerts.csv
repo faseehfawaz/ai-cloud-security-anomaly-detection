@@ -1,0 +1,2 @@
+timestamp,ip,requests,failed_logins,anomaly
+2024-01-01 10:04,192.168.1.5,200,15,-1
