@@ -60,5 +60,3 @@ Isolation Forest is well-suited for security anomaly detection because it does n
 
 ## Author
 Faseeh Fawaz  
-Bachelor of Computer Science – University of Wollongong in Dubai  
-Actively seeking Cloud Security / DevSecOps internship opportunities
